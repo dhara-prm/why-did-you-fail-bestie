@@ -7,7 +7,7 @@ Why Did You Fail, Bestie? is a playful yet practical tool that performs **post-m
 The goal of this project is to make **ML debugging easier, clearer, and even a little fun**.
 
 
-![System Design](<System Design.png>)
+
 
 ---
 
