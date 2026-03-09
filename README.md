@@ -36,7 +36,7 @@ It then generates a **human-readable explanation** of the model's behavior.
 
 # 💡 Key Features
 
-### 📊 Interactive ML Diagnostics Dashboard
+### 🩷 Interactive ML Diagnostics Dashboard
 
 A visual dashboard built with **Next.js** that displays:
 
@@ -49,7 +49,7 @@ A visual dashboard built with **Next.js** that displays:
 
 ---
 
-### 🎯 Model Health Score
+### 🌷 Model Health Score
 
 A computed score (0–100) representing the overall reliability of the model.
 
@@ -65,7 +65,7 @@ The score is based on:
 
 ---
 
-### 🧠 AI-Style Failure Explanation
+### 🌻 AI-Style Failure Explanation
 
 Instead of just numbers, the system generates a friendly explanation:
 
@@ -76,7 +76,7 @@ This helps quickly identify possible issues.
 
 ---
 
-### 📈 Calibration Analysis
+### 🌼 Calibration Analysis
 
 The system checks whether the model’s **confidence matches reality**.
 
@@ -91,7 +91,7 @@ This indicates **overconfidence**, which can be dangerous in production models.
 
 ---
 
-### 📉 Error Distribution Analysis
+### ✨ Error Distribution Analysis
 
 Shows where predictions fail by visualizing:
 
@@ -102,7 +102,7 @@ This helps understand model reliability.
 
 ---
 
-### 🔍 Feature Drift Detection
+### 🌵 Feature Drift Detection
 
 Analyzes numerical feature distributions to identify potential **data drift signals**.
 
@@ -110,7 +110,7 @@ When production data shifts from training data patterns, models often degrade.
 
 ---
 
-# 🖼️ Dashboard Overview
+# 🪩 Dashboard Overview
 
 The application provides a clean, interactive dashboard:
 
@@ -128,7 +128,7 @@ AI Explanation Panel
 
 ---
 
-# 🛠️ Tech Stack
+# 💕 Tech Stack
 
 Frontend
 
@@ -191,7 +191,7 @@ docs/
 
 ---
 
-# 📊 Expected CSV Format
+# 🫶 Expected CSV Format
 
 The system analyzes prediction outputs in CSV form.
 
@@ -223,9 +223,9 @@ If confidence is missing, the system estimates a default value for diagnostics.
 
 ---
 
-# 🚀 How to Run the Project
+# 🩷 How to Run the Project
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```
 git clone https://github.com/yourusername/why-did-you-fail-bestie.git
@@ -233,7 +233,7 @@ git clone https://github.com/yourusername/why-did-you-fail-bestie.git
 
 ---
 
-### 2️⃣ Start the backend
+### 2️. Start the backend
 
 ```
 cd backend
@@ -257,7 +257,7 @@ http://localhost:8000/docs
 
 ---
 
-### 3️⃣ Start the frontend
+### 3️. Start the frontend
 
 ```
 cd frontend
@@ -275,7 +275,7 @@ http://localhost:3000
 
 ---
 
-# 🧪 Example Workflow
+# 🫰 Example Workflow
 
 1. Upload prediction CSV
 2. Backend performs diagnostics
@@ -285,7 +285,7 @@ http://localhost:3000
 
 ---
 
-# 🎨 Design Philosophy
+# 🫶 Design Philosophy
 
 Most ML debugging tools are very technical.
 
@@ -297,7 +297,7 @@ The interface is intentionally light, approachable, and slightly humorous — be
 
 ---
 
-# 📌 Future Improvements
+# 🥰 Future Improvements
 
 Possible future enhancements:
 
@@ -310,7 +310,7 @@ Possible future enhancements:
 
 ---
 
-# 👩‍💻 Why This Project Exists
+# 🤔 Why This Project Exists
 
 In many real ML systems, teams struggle to understand **why models fail** after deployment.
 
@@ -324,9 +324,9 @@ This project explores the idea that:
 
 If you find the idea interesting:
 
-* ⭐ Star the repository
-* 🛠️ Fork and experiment
-* 💡 Suggest improvements
+*  Star the repository
+*  Fork and experiment
+*  Suggest improvements
 
 ---
 
